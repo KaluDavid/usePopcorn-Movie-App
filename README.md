@@ -1,6 +1,4 @@
-# Updating the README content to remove links from the Table of Contents
 
-readme_content_no_links = """
 # Movie App - useEffect Project
 
 This project is part of a Udemy course on React's `useEffect` hook. It covers data fetching, error handling, component lifecycle, and advanced effect management, using a movie application as the primary project.
